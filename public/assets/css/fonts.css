@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Circe;
+    font-weight: 350;
+    font-style: normal;
+    src: local("Circe"),
+        url("/public/assets/fonts/Circe-Regular.woff2") format('woff2'),
+        url("/public/assets/fonts/Circe-Regular.woff") format('woff'),
+        url("/public/assets/fonts/Circe-Regular.eot") format('eot');
+    font-display: swap;
+}
